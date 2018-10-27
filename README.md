@@ -31,6 +31,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 Here's a walkthrough of implemented user stories:
 
 <img src='hhttps://i.imgur.com/oKQ7mkp.gif' title='Tumblr_feed Demo' width='373' alt='tumblr_feed' />
+![Sample Gif](http://i.imgur.com/oKQ7mkp.gif)
+<img src="/art/sample.gif?raw=true" width="200px">
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
