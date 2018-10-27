@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/oKQ7mkp' title='Tumblr_feed Demo' width='373' alt='tumblr_feed' />
 
-![](https://imgur.com/1wJ55vy.gif)
+![](https://imgur.com/oKQ7mkp.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
