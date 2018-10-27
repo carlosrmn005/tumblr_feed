@@ -30,7 +30,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/72mJWHK.gif' title='Tumblr_feed Demo' width='373' alt='tumblr_feed' />
+<img src='https://imgur.com/72mJWHK.gif' title='Tumblr_feed Demo' width='373' alt='tumblr_feed' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
