@@ -1,4 +1,4 @@
-# Lab 1 - *NTumblr_feed*
+# Lab 1 - *Tumblr_feed*
 
 **Tumblr_feed** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
@@ -30,7 +30,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/72mJWHK.gif' title='tumblr_feed_demo' width='373' alt='tumblr_feed_demo' />
+<img src='https://imgur.com/a/Eod48YL.gif' title='tumblr_feed_demo' width='373' alt='tumblr_feed_demo' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
