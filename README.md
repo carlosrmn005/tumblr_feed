@@ -54,17 +54,17 @@ When launching the app the pictures will look squished but once you scroll down 
     See the License for the specific language governing permissions and
     limitations under the License.
 
-# Lab 2 - *Name of App Here*
+# Lab 2 - *Tumblr_feed*
 
-**Name of your app** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
+**Tumblr_feed** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [ ] User can tab an image to view a larger image in a detail view (5pts)
+- [x] User can tab an image to view a larger image in a detail view (5pts)
 
 The following **stretch** user stories are implemented:
 
@@ -78,14 +78,14 @@ The following **additional** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. Is there a way to send the image to the photoDetailView without URL?
+2. Is there a way to set height without tableview.rowHeight?
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/wEWQhns.gif' title='tumblr_feed demo2' width='372' alt='tumblr_feed demo2' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -95,7 +95,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Carlos Roman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
