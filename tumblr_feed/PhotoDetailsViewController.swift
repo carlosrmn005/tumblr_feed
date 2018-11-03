@@ -13,27 +13,12 @@ class PhotoDetailsViewController: UIViewController {
     
     @IBOutlet weak var photoImageView: UIImageView!
     
-    var post: [String: Any]?
+    var photoURL: URL!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        if let photos = post
-        {
-            // photos is NOT nil, we can use it!
-            // TODO: Get the photo url
-            // 1.
-            // 2.
-            //Crashes here
-            let originalSize = photos["original_size"] as! [String: Any]
-            // 3.
-            let urlString = originalSize["url"] as! String
-            // 4.
-            let url = URL(string: urlString)
-            
-            photoImageView.af_setImage(withURL: url!)
-        }
         
+        photoImageView.af_setImage(withURL: photoURL!)
         // Do any additional setup after loading the view.
     }
 
